@@ -22,7 +22,7 @@
         defaults = {
             path: 'watermark.png',
 
-            text: '',
+            text: 'blog.carol-caracol.com',
             textWidth: 130,
             textSize: 13,
             textColor: 'white',
