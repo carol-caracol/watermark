@@ -20,11 +20,11 @@
 
     var pluginName = 'watermark',
         defaults = {
-            path: 'https://raw.githubusercontent.com/baivong/watermark/master/demo/watermark.png',
+            path: '',
 
-            text: '',
+            text: '卡羅的練習場',
             textWidth: 130,
-            textSize: 13,
+            textSize: 14,
             textColor: 'white',
             textBg: 'rgba(0, 0, 0, 0.4)',
 
