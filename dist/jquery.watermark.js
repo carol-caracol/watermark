@@ -20,9 +20,9 @@
 
     var pluginName = 'watermark',
         defaults = {
-            path: 'watermark.png',
+            path: 'https://raw.githubusercontent.com/baivong/watermark/master/demo/watermark.png',
 
-            text: 'blog.carol-caracol.com',
+            text: '',
             textWidth: 130,
             textSize: 13,
             textColor: 'white',
