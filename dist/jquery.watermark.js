@@ -22,9 +22,9 @@
         defaults = {
             path: '',
 
-            text: '卡羅的練習場',
-            textWidth: 130,
-            textSize: 14,
+            text: '冬去春來、百花盛開',
+            textWidth: 200,
+            textSize: 20,
             textColor: 'white',
             textBg: 'rgba(0, 0, 0, 0.4)',
 
